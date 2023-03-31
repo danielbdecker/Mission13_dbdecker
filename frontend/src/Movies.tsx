@@ -1,6 +1,6 @@
 import data from './MovieData.json';
 import styles from './Home.module.css';
-
+//movie list page
 const mds = data.MovieData;
 function MovieList() {
   return (

@@ -6,6 +6,8 @@ import Home from './Home';
 import MovieList from './Movies';
 import Podcasts from './Podcasts';
 
+//main app, everything routed from here
+
 export default function App() {
   return (
     <BrowserRouter>

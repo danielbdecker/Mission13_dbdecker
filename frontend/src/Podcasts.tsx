@@ -1,4 +1,5 @@
 import styles from './Home.module.css';
+//podcasts page
 function Podcasts() {
   return (
     <>

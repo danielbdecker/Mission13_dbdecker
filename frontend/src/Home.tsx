@@ -1,4 +1,6 @@
 import styles from './Home.module.css';
+
+//homepage
 function Home() {
   return (
     <>
